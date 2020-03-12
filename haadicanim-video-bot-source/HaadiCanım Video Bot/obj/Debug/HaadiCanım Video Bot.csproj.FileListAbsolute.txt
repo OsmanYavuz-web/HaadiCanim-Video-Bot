@@ -1,0 +1,59 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.dll
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.xml
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım_Video_Bot.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım_Video_Bot.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.exe.config
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.exe
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.exe
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HaadiCanım Video Bot.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\HtmlAgilityPack.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.csprojResolveAssemblyReference.cache
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım_Video_Bot.Form1.resources
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım_Video_Bot.Properties.Resources.resources
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\obj\Debug\HaadiCanım Video Bot.csproj.GenerateResource.Cache
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Core.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.PlatformServices.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\log4net.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Newtonsoft.Json.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\System.Net.Http.Extensions.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\System.Net.Http.Primitives.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Zlib.Portable.dll
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Core.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.Core.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.PlatformServices.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\log4net.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Newtonsoft.Json.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\System.Net.Http.Extensions.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\System.Net.Http.Primitives.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\Zlib.Portable.xml
+D:\VB6 - C# Projelerim\haadicanim-video-bot-source\HaadiCanım Video Bot\bin\Debug\client_secrets.json
